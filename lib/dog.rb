@@ -1,7 +1,7 @@
-class dog 
+class Dog 
 end
 
-fido = dog.new 
-also = dog.new 
-gigo = dog.new
+fido = Dog.new 
+also = Dog.new 
+gigo = Dog.new
 
